@@ -13,14 +13,14 @@ In the given project I've implemented a tutorialr via approach to learn various 
 The code is written entirely in C and is open to everyone to add more features to it. 
 
 The current Sorting methods that I'd implemented are :
-Selection Sort 
-Insertion Sort
-Bubble Sort
-Merge Sort
-Quick Sort
-Shell Sort
+-Selection Sort 
+-Insertion Sort
+-Bubble Sort
+-Merge Sort
+-Quick Sort
+-Shell Sort
 
 More to come :
-- Heap Sort
+- More Sorting methods
 - a GUI based approach
 - 
